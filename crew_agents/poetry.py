@@ -8,7 +8,7 @@ authors = ["Alex Fazio <alessandro.fazio@me.com>"]
 crcrewai-streamlit-sequential-quickstart = "main:main"
 
 [tool.poetry.dependencies]
-python = ">=3.9,<=3.13"
+python = ">=3.10,<=3.13"
 pydantic = "*"
 crewai = "*"
 streamlit = "*"
